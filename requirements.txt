@@ -59,7 +59,7 @@ requests
 scikit-learn
 scipy
 six
-sklearn
+scikit-learn
 sqlparse
 svglib
 tablib
