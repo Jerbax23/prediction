@@ -56,7 +56,7 @@ qrcode==7.3.1
 reportlab==3.6.9
 requests==2.27.1
 scikit-learn
-scipy==1.10.1
+scipy
 six==1.16.0
 sklearn==0.0.post5
 sqlparse==0.4.2
