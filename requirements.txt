@@ -21,6 +21,7 @@ et-xmlfile
 filelock
 Flask
 future
+gunicorn
 html5lib
 idna
 importlib-metadata
