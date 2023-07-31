@@ -9,7 +9,7 @@ import json
 app = Flask(__name__)
 
 # Load the trained model and scaler from the pickle file
-with open('trained_model.pkl', 'rb') as file:
+with open('trained_model.pkl', 'r') as file:
     xgb_model, scaler = pickle.load(file)
 
 class NumpyEncoder(json.JSONEncoder):
