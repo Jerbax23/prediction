@@ -74,7 +74,7 @@ webencodings
 Werkzeug
 whitenoise
 xgboost
-xhtml2pd
+xhtml2pdf2
 xlrd
 xlwt
 zipp
